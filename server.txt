@@ -1,0 +1,11 @@
+# Install a simple HTTP server globally
+npm install -g http-server
+
+# Navigate to your project directory
+cd C:\Users\lamech.dete\Practices\Web\Front-end\HTML\my-portfolio
+
+# Start the server
+http-server
+
+# Or specify a port
+http-server -p 8000
